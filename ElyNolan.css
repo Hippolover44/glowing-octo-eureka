@@ -1,0 +1,39 @@
+body {
+    background-color: rgba(56, 142, 255, 0.568);
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  h2 {
+    color: rgb(73, 62, 62);
+    text-align: center;
+  }
+  p {
+    font-family: Tahoma;
+    font-size: 20px;
+  }ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: rgb(71, 105, 219);
+  }
